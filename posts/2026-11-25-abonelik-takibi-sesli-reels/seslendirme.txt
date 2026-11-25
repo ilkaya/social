@@ -1,8 +1,2 @@
-Ses: Matilda (kadın) – ElevenLabs eleven_multilingual_v2
-Her ay aynı müşterilere fatura kesiyorsunuz.
-Ama bir ay, biri unutuluyor. Fark ettiğinizde iki ay geçmiş oluyor.
-Düzenli gelir, düzenli takip ister. Üç adım yeter.
-Bir. Her abonenin yenileme gününü tek bir listede tutun.
-İki. Faturayı o gün otomatik kesin, hatırlamaya bırakmayın.
-Üç. Ödeme gecikirse, müşteriye nazik bir hatırlatma gönderin.
-Argist abonelik yönetimiyle fatura ve tahsilat takibi kendiliğinden yürür. On dört gün ücretsiz deneyin.
+Ses: Daniel (erkek) – ElevenLabs eleven_v4, tek parça
+Diyelim ki mahallende küçük bir spor salonu açtın. Yüz yirmi üyen var, her biri ayda bin iki yüz lira ödüyor. Kâğıt üstünde harika, değil mi? Ama ay sonunda kasaya bakıyorsun... para eksik. Neden mi? Çünkü on bir kişinin ödemesi, iki aydır kimsenin aklına gelmemiş. Bu, ayda on üç bin liradan fazla kayıp demek. Peki sen ne yapardın? Önce her üyenin yenileme gününü tek bir listede toplardın. Sonra faturayı o gün otomatik keserdin. Ödeme gecikirse de nazik bir hatırlatma giderdi. Argist abonelik yönetimi tam olarak bunu yapıyor. Sen olsan, o on bir kişiyi kaç ayda fark ederdin? On dört gün ücretsiz dene.
