@@ -1,0 +1,21 @@
+Bir cumartesi öğlen, kafenizde süt bitti. Tedarikçi pazartesi gelecek.
+
+Rakamlar küçük görünür ama hızla büyür. Örnek bir hesap yapalım: sonraki üç saatte 60 sütlü kahve siparişi geri çevrildi. Fincan başı 120 ₺ ile bu, tek bir öğleden sonrada 7.200 ₺ kaçan satış demek. Asıl maliyet ise ölçülemeyen kısım: o gün kapıdan dönen müşterilerin bir kısmı bir daha gelmiyor.
+
+Bu tablo yalnızca kafelere özgü değil. Kuaförde boya, oto serviste filtre, butikte en çok satan beden. Stok genellikle hafta sonu, kampanya günü ya da en yoğun saatte biter. Çünkü stok bilgisi çoğu işletmede akşam yapılan bir sayıma ya da birinin aklına gelmesine bağlıdır.
+
+Bunu önlemek için karmaşık bir sistem gerekmiyor. Üç adım yeterli:
+
+1. Her ürün için bir alt sınır belirleyin. Süt için 12 litre, kahve çekirdeği için 3 kg gibi. Sınırı tedarik süresine göre koyun: tedarikçi iki günde geliyorsa, iki günlük satışı karşılayacak kadar.
+
+2. Stoğu satışla birlikte güncel tutun. Akşam sayımı yerine her satış stoktan düşsün. Böylece gün içinde gerçek rakamı görürsünüz.
+
+3. Sınıra gelince uyarı alın. Uyarı geldiğinde sipariş verirseniz, ürün bitmeden yenisi gelir.
+
+Argist Stok Yönetimi bu akışı tek yerde topluyor: satış yapıldıkça stok otomatik düşer, belirlediğiniz kritik seviyenin altına inen ürün için uyarı gelir. Ürüne özel barkod, maliyet ve kâr marjı takibi de aynı ekranda.
+
+Hikâyedeki işletme ve rakamlar örnektir.
+
+İşletmenizde en sık hangi ürün en kötü zamanda bitiyor?
+
+14 gün ücretsiz deneyin, kredi kartı gerekmez: argist.com
