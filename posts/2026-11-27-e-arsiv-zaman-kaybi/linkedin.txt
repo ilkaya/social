@@ -1,0 +1,20 @@
+E-Arşiv faturaya geçen işletmelerin çoğu aynı yerde zaman kaybediyor: faturanın kendisinde değil, etrafındaki tekrar eden işlerde.
+
+Örnek bir ay sonu düşünelim. Bir hizmet işletmesi ayda 80 müşterisine fatura kesiyor. Her fatura için portala giriş, müşteri bilgisi, kalemler, onay, PDF indirme ve e-posta. Fatura başına birkaç dakika bile sürse, ay sonu kolayca yarım güne dönüşüyor. Üstelik hangi faturanın gönderildiği, hangisinin taslakta kaldığı ayrı bir takip işi.
+
+Bu süreçte en sık karşılaştığımız üç zaman kaybı ve pratik karşılıkları:
+
+1. Faturaları tek tek kesmek
+Aynı işlemi her müşteri için tekrar etmek yerine faturaları toplu oluşturup tek seferde GİB'e göndermek, ay sonunu belirgin biçimde kısaltır.
+
+2. Faturayı müşteriye ayrıca ulaştırmak
+Satışı tek tıkla e-Arşiv faturaya dönüştürüp müşteriye otomatik e-postayla göndermek, "fatura geldi mi?" yazışmalarını da azaltır. Argist'te faturalar XML ve PDF olarak 10 yıl saklanır ve buluta yedeklenir.
+
+3. Fatura durumlarını görememek
+Taslak, satış, e-Arşiv ve imzalı e-Arşiv durumlarının tek bir aylık fatura defterinde görünmesi; tarihe, müşteriye ve tutara göre filtrelenebilmesi, kontrolü dakikalara indirir.
+
+Argist'in E-Arşiv modülü GİB entegrasyonuyla çalışır; Argist öncesinde oluşturduğunuz e-Arşiv faturaları da GİB'den tek seferde aktarabilirsiniz. E-Arşiv resmi fatura modülü Kurumsal pakette yer alır.
+
+Argist'i 14 gün ücretsiz deneyebilirsiniz, kredi kartı gerekmez: argist.com
+
+Sizin işletmenizde fatura sürecinin en çok zaman alan adımı hangisi?
