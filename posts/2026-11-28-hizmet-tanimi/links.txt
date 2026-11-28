@@ -1,0 +1,4 @@
+Instagram (2'li gönderi): https://www.instagram.com/p/DgRpjikDtXj/
+LinkedIn: paylaşılamadı (Zapier "Could not find entity", 2 deneme) — elle paylaşılacak.
+LinkedIn görseli: https://raw.githubusercontent.com/ilkaya/social/40839b889a7257451cdc47ca0d57c07ebfa311eb/posts/2026-11-28-hizmet-tanimi/01.png
+LinkedIn metni: https://raw.githubusercontent.com/ilkaya/social/40839b889a7257451cdc47ca0d57c07ebfa311eb/posts/2026-11-28-hizmet-tanimi/linkedin.txt
