@@ -1,0 +1,16 @@
+Hizmet satan işletmelerde en çok zaman kaybettiren işlerden biri, aynı hizmeti her seferinde baştan tanımlamak.
+
+Bir oto servisi düşünelim. "Periyodik bakım" hizmeti her ay onlarca kez satılıyor. Ancak her teklifte ve her satışta hizmetin adı, kapsamı ve fiyatı yeniden yazılıyor; kullanılan yağ ve filtre ise stoktan ayrıca, elle düşülüyor. Sonuç: tekrar eden iş yükü, ekipten ekibe değişen fiyatlar ve gerçeği yansıtmayan stok bilgisi.
+
+Bu sorunun çözümü, hizmeti bir kez standart hale getirmek:
+
+1. Hizmeti tek kayıtta tanımlayın: ad, açıklama, görsel, fiyat ve süre.
+2. Teklif hazırlarken veya satış yaparken bu kayıtlı hizmetlerden seçin; bilgileri yeniden girmeye gerek kalmasın.
+3. Hizmette kullanılan ürünleri stok kalemlerine bağlayın; hizmet satıldıkça stok otomatik düşsün.
+4. Hizmetin nasıl yapılacağını adım adım dokümante edin; ekip her seferinde aynı kaliteyi sunsun.
+
+Argist Hizmet Yönetimi bu adımların tamamını tek platformda sunar. Hizmetleri etiketleyip raporlarda filtreleyebilir, abonelik usulü verdiğiniz hizmetlerin ödemelerini düzenli olarak toplayabilir, isterseniz hizmetlerinizi e-mağazanızda da listeleyebilirsiniz.
+
+Hizmetlerinizi bugün kaç farklı yerde, kaç farklı fiyatla yazıyorsunuz? Bir kez tanımlamak, hem zaman hem de tutarlılık kazandırır.
+
+Argist'i 14 gün ücretsiz deneyebilirsiniz, kredi kartı gerekmez: argist.com
